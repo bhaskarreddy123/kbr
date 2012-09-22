@@ -31,8 +31,5 @@ xmlhttp.send();
 </script>
 </head>
 
-<body>
-<div id="myDiv"><h2>Let AJAX change this text</h2></div>
-<button type="button" onclick="loadXMLDoc()">Change Content</button>
 </body>
 </html>
